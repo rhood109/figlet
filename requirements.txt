@@ -1,0 +1,6 @@
+N4Tools
+shutil
+requests
+rich
+curses
+threading
