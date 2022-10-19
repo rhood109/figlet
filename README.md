@@ -4,7 +4,7 @@
 
 ### Installation:
 
-**termux**
+- **termux**
 
 copy those commands and paste them on your termux.
 
@@ -17,7 +17,7 @@ cd figlet
 ```bash
 pip install -r requirements.txt
 ```
-**Linux**
+- **Linux**
 
 - copy those commands and paste them on your terminal.
 ```bash
