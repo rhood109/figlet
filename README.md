@@ -1,4 +1,4 @@
-#Figlet
+# Figlet
 
 ## The designer of this tool is Mr.Lime
 
@@ -18,7 +18,7 @@
 
 <div id="termux"></div>
 
-#termux 
+#### termux 
 
 copy those commands and paste them on your termux.
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 <br>
 <div id="Linux"></div>
-**Linux**
+** Linux **
 
 - copy those commands and paste them on your terminal.
 ```bash
