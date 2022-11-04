@@ -8,7 +8,7 @@
 
 copy those commands and paste them on your termux.
 
-```bash
+```shell
 git clone https://github.com/rhood109/figlet
 ```
 ```bash
