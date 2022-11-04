@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Exec=/bin/python figlet.py
+Icon=/opt/Figlet/icon.png
+Name=Figlet
+Comment=
+Path=
+StartupNotify=false
