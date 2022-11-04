@@ -41,9 +41,7 @@ git clone https://github.com/rhood109/figlet
 ```bash
 cd figlet 
 ```
-```bash
-sudo pip install -r requirements.txt
-```
+
 ```bash
 chmod +x install
 ```
