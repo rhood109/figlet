@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 <br>
 <div id="Linux"></div>
-** Linux **
+#### Linux
 
 - copy those commands and paste them on your terminal.
 ```bash
@@ -44,6 +44,12 @@ cd figlet
 ```
 ```bash
 sudo pip install -r requirements.txt
+```
+```bash
+chmode +x install
+```
+```bash
+./install
 ```
 * To run
 ```bash
