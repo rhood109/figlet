@@ -47,7 +47,7 @@ cd figlet
 sudo pip install -r requirements.txt
 ```
 ```bash
-chmode +x install
+chmod +x install
 ```
 ```bash
 ./install
