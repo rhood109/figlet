@@ -9,6 +9,11 @@ import sys
 import time
 import random
 import socket
+##################################
+import os
+import socket
+import time
+import sys
 ###########################################################################
 mix = sys.maxsize
 #############################################################################
@@ -64,6 +69,7 @@ def held():
   |  \033[1;37mheight      \033[1;32m :         \033[1;33mheight numper         \033[1;31m          |
   |  \033[1;37mplist       \033[1;32m :         \033[1;33mcreat wordlist        \033[1;31m          |
   |  \033[1;37mwidth       \033[1;32m :         \033[1;33mwidth numper          \033[1;31m          |
+  |  \033[1;37mip_address  \033[1;32m :         \033[1;33mget ip site           \033[1;31m          |
   |  \033[1;37mrest        \033[1;32m :         \033[1;33mrestart tool        \033[1;31m            |
   |  \033[1;37mhelp        \033[1;32m :         \033[1;33mshow command          \033[1;31m          |
   |  \033[1;37mTelgram     \033[1;32m :         \033[1;33mFollow us on Telegram\033[1;31m           |
@@ -159,6 +165,9 @@ def Hello ():
         system('python3 figlet.py')
     elif numper == 'network-info' :
         net()
+        Hello()
+    elif numper == 'ip_address':
+        from tool.ip_addreas import main
         Hello()
     else :
         my_function()
