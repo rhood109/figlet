@@ -1,0 +1,5 @@
+#!/bin/bash
+sudo mkdir /opt/Figlet  &> /dev/null
+sudo cp -r tool/icon.png /opt/Figlet  &> /dev/null
+(cat tool/icon.desktop | sed "s|Path=|Path=$PWD|g") > ~/Desktop/icon.desktop
+chmod +x ~/Desktop/vss.desktop &> /dev/null
