@@ -28,9 +28,7 @@ git clone https://github.com/rhood109/figlet
 ```bash
 cd figlet
 ```
-```bash
-pip install -r requirements.txt
-```
+
 <br>
 <div id="Linux"></div>
 
