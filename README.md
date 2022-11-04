@@ -1,6 +1,5 @@
 #Figlet
-#
-#
+
 ## The designer of this tool is Mr.Lime
 
 - [Installation](#install)
@@ -14,9 +13,12 @@
 
 
 <div id="install"></div>
-### Installation:
+
+### Installation
+
 <div id="termux"></div>
-**termux** 
+
+#termux 
 
 copy those commands and paste them on your termux.
 
